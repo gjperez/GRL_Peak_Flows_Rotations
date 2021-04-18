@@ -10,5 +10,4 @@ Q_Rot_HLM_Cedar.mat: Results for Cedar River watershed
 
 Each column represent a rotation from 0° to 330° in steps of 30°, and each row is a rainfall-runoff event.
 
-Perez, G., Gomez-Velez, J., Mantilla, R., Wright, D. B, & Li, Z. (2020). The Effect of Storm Direction on Flood Frequency Analysis: Using Physics-Based Streamflow Simulations.
-Submitted to Geophysical Research Letters
+Perez, G., Gomez-Velez, J., Mantilla, R., Wright, D. B, & Li, Z. (2021). The Effect of Storm Direction on Flood Frequency Analysis. Geophysical Research Letters
