@@ -1,4 +1,4 @@
-# Dataset for Perez et al., (2020) 
+# Dataset for Perez et al., (2021) 
 
 Dataset containing the Peak flow values generated from the RainyDay-HLM framework for the 
 Turkey River and Cedar River Watersheds.  
